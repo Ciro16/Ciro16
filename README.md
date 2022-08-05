@@ -1,15 +1,15 @@
 ## Welcome!
 
-👋 Hola mi nombre es Ciro Pérez Iglesias, 
+👋 Hey my name is Ciro Pérez Iglesias, i'm from Dominican Republic, 
 
-Tengo cerca de 4 años trabajando en el mundo de la programación y 2 de ellos como Desarrollador Web.
+I've been working about 4 years in the tech industry and 2 of then as a Web Developer.
 
-Comencé mi camino profesinal como programador en el ERP SAP para luego dar el salto al mundo web! 
+I started my career in SAP ERP as an ABAP Developer, to then jump into the world of web programming
 
-Profesionalmente he trabajado con tecnologías como 👇🏽
+Professionally i have worked with 👇🏽
 
-| Frontend              | Backend         | Frameworks            | Más                                     |
+| Frontend              | Backend         | Frameworks            | More                                    |
 |-----------------------|-----------------|-----------------------|---------------------------------------- |
-| HTML, CSS, Javascript | PHP, SQL, mySQL | ReactJS, Framework 7  | Control de versiones con Git, FileZilla |
+| HTML, CSS, Javascript | PHP, SQL, mySQL | ReactJS, Framework 7  | Git version control, FileZilla          |
 
-Si te interesa aquí puedes ver algunos de mis trabajos personales 😄
+If you are interested in knowing more about me, you can check in this repository some of my personal projects 😄
