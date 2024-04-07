@@ -10,6 +10,6 @@ Professionally i have worked with 👇🏽
 
 | Frontend              | Backend         | Frameworks            | More                                    |
 |-----------------------|-----------------|-----------------------|---------------------------------------- |
-| HTML, CSS, Javascript | PHP, SQL, mySQL | ReactJS, Framework 7  | Git version control, CLI, FileZilla     |
+| HTML, CSS, Javascript | PHP, SQL, mySQL | ReactJS, NextJS       | Git version control, Linux              |
 
 If you are interested in knowing more about me, you can check in this repository some of my personal projects 😄
